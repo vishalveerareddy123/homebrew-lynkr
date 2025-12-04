@@ -1,4 +1,4 @@
-# Vishalveerareddy123 Lynkr
+#Lynkr
 
 ## How do I install these formulae?
 
